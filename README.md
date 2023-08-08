@@ -1,0 +1,1 @@
+This is a simple Tic Tac Toe game in under 100 lines.
